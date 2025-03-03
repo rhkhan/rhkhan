@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashedul Hossain Khan</h1>
 <h3 align="center">A passionate full stack software engineer</h3>
+![githubCaption](https://github.com/user-attachments/assets/70dad0ea-5ed7-45a0-95bd-84c154653017)
 
-![githubImage](https://github.com/user-attachments/assets/ccbc7c34-1f54-41a9-a958-fc80436902e8)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhkhan&label=Profile%20views&color=0e75b6&style=flat" alt="rhkhan" /> </p>
 
